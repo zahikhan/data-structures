@@ -1,4 +1,4 @@
-package com.zahid.datastructure.demo;
+package com.github.datastructure.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

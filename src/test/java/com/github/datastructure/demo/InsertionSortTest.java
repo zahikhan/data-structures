@@ -1,8 +1,8 @@
-package com.zahid.datastructure.demo;
+package com.github.datastructure.demo;
+
+import com.github.datastructure.demo.algorithms.AlgorithmUtils;
 
 import java.util.*;
-
-import com.zahid.datastructure.demo.algorithms.AlgorithmUtils;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
@@ -56,5 +56,4 @@ class InsertionSortTest {
 
     Assertions.assertEquals(original, expected);
   }
-
 }

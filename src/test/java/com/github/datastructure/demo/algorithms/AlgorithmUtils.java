@@ -1,4 +1,4 @@
-package com.zahid.datastructure.demo.algorithms;
+package com.github.datastructure.demo.algorithms;
 
 import java.util.List;
 
